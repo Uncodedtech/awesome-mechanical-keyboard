@@ -11,6 +11,7 @@ layout: ../../layouts/MarkdownLayout.astro
 - [Capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d.
 - [Kalerator](https://kalerator.clueboard.co) - Pcb generator for keyboard-layout-editor generated layouts. [GitHub Site](https://github.com/skullydazed/kalerator), [Eagle Parts Library](https://github.com/skullydazed/clueboard_eagle)
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [kb-fx](https://github.com/MrBogomips/kb-fx) - macOS CLI that plays a synthesized sound on every keystroke on any keyboard, and sets backlight colors on VIA-compatible boards over raw HID.
 - [kbpcb](http://kbpcb.mrkeebs.com/) - Create KiCad PCB files from [KLE](http://www.keyboard-layout-editor.com) json files [Github page](https://github.com/fcoury/kbpcb)
 - [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) - Is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. [GitHub Site](https://github.com/ijprest/keyboard-layout-editor)
 - [Keyboard Layout 3D Viewer](https://github.com/eswai/KL3V) - 3D render keyboard-layout-editor.com layouts
